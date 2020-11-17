@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Atomic+Age");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+body {
+  background-image: url("../images/bg0.jpg");
+  background-repeat: no-repeat;
+  }
+
+h1 {
+  font-family: Atomic Age;
+  font-size: 500%;
+  position: static;
+  top: 1%;
+  left: 0%;
+  }
+
+h2 {
+  font-family: serif;
+  }
+
+h2 {
+  font-size: 300%;
+  position: static;
+  top: 25%;
+  left: 0%;
+  }
+
+blockquote {
+  font-size: 200%;
+  font-family: serif;
+  position:relative;
+  left: 2%;
+  bottom: 5%;
+
+}
